@@ -1,1 +1,0 @@
-## I recomend you use https://www.passwordmonster.com/ to check the strength of your passwords.
